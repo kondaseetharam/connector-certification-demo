@@ -16,7 +16,7 @@
         "operationId": "GetEmployees",
         "responses": {
           "200": {
-            "description": "Success"
+            "description": "Successfull"
           }
         }
       }
