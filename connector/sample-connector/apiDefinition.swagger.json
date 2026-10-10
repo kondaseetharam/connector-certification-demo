@@ -1,7 +1,7 @@
 {
   "swagger": "2.0",
   "info": {
-    "title": "Employee Connector",
+    "title": "Employee Connector Demo",
     "description": "Demo connector",
     "version": "1.0"
   },
